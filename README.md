@@ -2,4 +2,4 @@
 
 The starter repo for the [Git 2 course](https://www.boot.dev/learn/learn-git-2) on Boot.dev.
 
-https://github.com/bootdotdev/megacorp/pull/3261
+https://github.com/bootdotdev/megacorp/pull/3262
